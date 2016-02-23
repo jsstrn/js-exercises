@@ -1,2 +1,3 @@
-# js-games
-A collection of simple JavaScript games
+# js-exercises
+
+A collection of simple JavaScript exercises
